@@ -17,9 +17,7 @@ if masterkey(maskey):
 
 else:
     time.sleep(0.7)
-    print('(ಠ_ಠ)', end="")
-    time.sleep(0.8)
-    print('╭∩╮')
+    print('(⇀‸↼‶)')
     exit()
 
 active_profile = profile()
